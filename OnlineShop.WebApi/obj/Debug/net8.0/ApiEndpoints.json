@@ -1,0 +1,54 @@
+[
+  {
+    "ContainingType": "OnlineShop.WebApi.Controllers.ProductsController",
+    "Method": "AddProduct",
+    "RelativePath": "Products/AddProduct",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "OnlineShop.Application.Features.Products.AddProduct.AddProductServiceRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "OnlineShop.Application.Features.Products.AddProduct.AddProductServiceResponse",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "OnlineShop.WebApi.Controllers.ProductsController",
+    "Method": "GetProducts",
+    "RelativePath": "Products/GetProducts",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "OnlineShop.Application.Features.Products.GetProducts.GetProductsServiceRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[OnlineShop.Application.Features.Products.GetProducts.ProductDto, OnlineShop.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]

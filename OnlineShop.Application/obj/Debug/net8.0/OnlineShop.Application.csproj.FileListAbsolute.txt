@@ -1,0 +1,15 @@
+C:\m_ghasemi\Others\OnlineShop\OnlineShop.Application\bin\Debug\net8.0\OnlineShop.Application.deps.json
+C:\m_ghasemi\Others\OnlineShop\OnlineShop.Application\bin\Debug\net8.0\OnlineShop.Application.dll
+C:\m_ghasemi\Others\OnlineShop\OnlineShop.Application\bin\Debug\net8.0\OnlineShop.Application.pdb
+C:\m_ghasemi\Others\OnlineShop\OnlineShop.Application\bin\Debug\net8.0\OnlineShop.Domain.dll
+C:\m_ghasemi\Others\OnlineShop\OnlineShop.Application\bin\Debug\net8.0\OnlineShop.Domain.pdb
+C:\m_ghasemi\Others\OnlineShop\OnlineShop.Application\obj\Debug\net8.0\OnlineShop.Application.csproj.AssemblyReference.cache
+C:\m_ghasemi\Others\OnlineShop\OnlineShop.Application\obj\Debug\net8.0\OnlineShop.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\m_ghasemi\Others\OnlineShop\OnlineShop.Application\obj\Debug\net8.0\OnlineShop.Application.AssemblyInfoInputs.cache
+C:\m_ghasemi\Others\OnlineShop\OnlineShop.Application\obj\Debug\net8.0\OnlineShop.Application.AssemblyInfo.cs
+C:\m_ghasemi\Others\OnlineShop\OnlineShop.Application\obj\Debug\net8.0\OnlineShop.Application.csproj.CoreCompileInputs.cache
+C:\m_ghasemi\Others\OnlineShop\OnlineShop.Application\obj\Debug\net8.0\OnlineSh.74C1F928.Up2Date
+C:\m_ghasemi\Others\OnlineShop\OnlineShop.Application\obj\Debug\net8.0\OnlineShop.Application.dll
+C:\m_ghasemi\Others\OnlineShop\OnlineShop.Application\obj\Debug\net8.0\refint\OnlineShop.Application.dll
+C:\m_ghasemi\Others\OnlineShop\OnlineShop.Application\obj\Debug\net8.0\OnlineShop.Application.pdb
+C:\m_ghasemi\Others\OnlineShop\OnlineShop.Application\obj\Debug\net8.0\ref\OnlineShop.Application.dll
