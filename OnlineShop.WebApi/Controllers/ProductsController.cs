@@ -10,12 +10,14 @@ namespace OnlineShop.WebApi.Controllers
     {
         private readonly IAddProductService _addProductService;
         private readonly IGetProductsService _getProductsService;
+        private readonly IConfiguration _configuration;
 
-        public ProductsController(IAddProductService addProductService, IGetProductsService getProductsService)
+        public ProductsController(IAddProductService addProductService, IGetProductsService getProductsService, IConfiguration configuration)
         {
 
             _addProductService = addProductService;
             _getProductsService = getProductsService;
+            _configuration = configuration;
         }
 
 
@@ -24,6 +26,9 @@ namespace OnlineShop.WebApi.Controllers
         [HttpPost]
         public AddProductServiceResponse AddProduct(AddProductServiceRequest request)
         {
+
+            var welcomeMessage = _configuration["wellcomeMessage"];
+
 
             var response = _addProductService.Handle(request);
             return response;

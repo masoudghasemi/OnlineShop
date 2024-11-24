@@ -22,6 +22,8 @@ namespace OnlineShop.Domain.Entities
 
         public ProductCategory Category { get; set; }
 
+        public int Amount { get; set; }
+
 
 
         public static int AddProduct(Product input)

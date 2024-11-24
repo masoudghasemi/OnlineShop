@@ -1,5 +1,6 @@
 using OnlineShop.Application.Features.Products.AddProduct;
 using OnlineShop.Application.Features.Products.GetProducts;
+using OnlineShop.Application.Formules.ProductAmountCalculator;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -12,6 +13,7 @@ builder.Services.AddSwaggerGen();
 
 builder.Services.AddScoped<IAddProductService, AddProductService>();
 builder.Services.AddScoped<IGetProductsService, GetProductsService>();
+builder.Services.AddSingleton<IProductAmountCalculator, ProductAmountCalculator>();
 
 
 var app = builder.Build();

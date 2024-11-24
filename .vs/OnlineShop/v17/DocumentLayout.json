@@ -3,18 +3,6 @@
   "WorkspaceRootPath": "C:\\m_ghasemi\\Others\\OnlineShop\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{15F3C4B7-117B-4089-877A-9495E7A8474A}|OnlineShop.WebApi\\OnlineShop.WebApi.csproj|c:\\m_ghasemi\\others\\onlineshop\\onlineshop.webapi\\onlineshop.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{15F3C4B7-117B-4089-877A-9495E7A8474A}|OnlineShop.WebApi\\OnlineShop.WebApi.csproj|solutionrelative:onlineshop.webapi\\onlineshop.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{15F3C4B7-117B-4089-877A-9495E7A8474A}|OnlineShop.WebApi\\OnlineShop.WebApi.csproj|c:\\m_ghasemi\\others\\onlineshop\\onlineshop.webapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{15F3C4B7-117B-4089-877A-9495E7A8474A}|OnlineShop.WebApi\\OnlineShop.WebApi.csproj|solutionrelative:onlineshop.webapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BE6A0B5C-B059-4460-B0F3-E7650B612A62}|OnlineShop.Application\\OnlineShop.Application.csproj|c:\\m_ghasemi\\others\\onlineshop\\onlineshop.application\\features\\products\\getproducts\\igetproductsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE6A0B5C-B059-4460-B0F3-E7650B612A62}|OnlineShop.Application\\OnlineShop.Application.csproj|solutionrelative:onlineshop.application\\features\\products\\getproducts\\igetproductsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{15F3C4B7-117B-4089-877A-9495E7A8474A}|OnlineShop.WebApi\\OnlineShop.WebApi.csproj|c:\\m_ghasemi\\others\\onlineshop\\onlineshop.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{15F3C4B7-117B-4089-877A-9495E7A8474A}|OnlineShop.WebApi\\OnlineShop.WebApi.csproj|solutionrelative:onlineshop.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -23,24 +11,48 @@
       "RelativeMoniker": "D:0:0:{BE6A0B5C-B059-4460-B0F3-E7650B612A62}|OnlineShop.Application\\OnlineShop.Application.csproj|solutionrelative:onlineshop.application\\onlineshop.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BE6A0B5C-B059-4460-B0F3-E7650B612A62}|OnlineShop.Application\\OnlineShop.Application.csproj|c:\\m_ghasemi\\others\\onlineshop\\onlineshop.application\\features\\products\\getproducts\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE6A0B5C-B059-4460-B0F3-E7650B612A62}|OnlineShop.Application\\OnlineShop.Application.csproj|solutionrelative:onlineshop.application\\features\\products\\getproducts\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{15F3C4B7-117B-4089-877A-9495E7A8474A}|OnlineShop.WebApi\\OnlineShop.WebApi.csproj|c:\\m_ghasemi\\others\\onlineshop\\onlineshop.webapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15F3C4B7-117B-4089-877A-9495E7A8474A}|OnlineShop.WebApi\\OnlineShop.WebApi.csproj|solutionrelative:onlineshop.webapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BE6A0B5C-B059-4460-B0F3-E7650B612A62}|OnlineShop.Application\\OnlineShop.Application.csproj|c:\\m_ghasemi\\others\\onlineshop\\onlineshop.application\\features\\products\\getproducts\\getproductsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE6A0B5C-B059-4460-B0F3-E7650B612A62}|OnlineShop.Application\\OnlineShop.Application.csproj|solutionrelative:onlineshop.application\\features\\products\\getproducts\\getproductsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{15F3C4B7-117B-4089-877A-9495E7A8474A}|OnlineShop.WebApi\\OnlineShop.WebApi.csproj|c:\\m_ghasemi\\others\\onlineshop\\onlineshop.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{15F3C4B7-117B-4089-877A-9495E7A8474A}|OnlineShop.WebApi\\OnlineShop.WebApi.csproj|solutionrelative:onlineshop.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BE6A0B5C-B059-4460-B0F3-E7650B612A62}|OnlineShop.Application\\OnlineShop.Application.csproj|c:\\m_ghasemi\\others\\onlineshop\\onlineshop.application\\features\\products\\getproducts\\getproductsservicerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE6A0B5C-B059-4460-B0F3-E7650B612A62}|OnlineShop.Application\\OnlineShop.Application.csproj|solutionrelative:onlineshop.application\\features\\products\\getproducts\\getproductsservicerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{15F3C4B7-117B-4089-877A-9495E7A8474A}|OnlineShop.WebApi\\OnlineShop.WebApi.csproj|c:\\m_ghasemi\\others\\onlineshop\\onlineshop.webapi\\onlineshop.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{15F3C4B7-117B-4089-877A-9495E7A8474A}|OnlineShop.WebApi\\OnlineShop.WebApi.csproj|solutionrelative:onlineshop.webapi\\onlineshop.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE6A0B5C-B059-4460-B0F3-E7650B612A62}|OnlineShop.Application\\OnlineShop.Application.csproj|c:\\m_ghasemi\\others\\onlineshop\\onlineshop.application\\features\\products\\addproduct\\addproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE6A0B5C-B059-4460-B0F3-E7650B612A62}|OnlineShop.Application\\OnlineShop.Application.csproj|solutionrelative:onlineshop.application\\features\\products\\addproduct\\addproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE6A0B5C-B059-4460-B0F3-E7650B612A62}|OnlineShop.Application\\OnlineShop.Application.csproj|c:\\m_ghasemi\\others\\onlineshop\\onlineshop.application\\formules\\productamountcalculator\\productamountcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE6A0B5C-B059-4460-B0F3-E7650B612A62}|OnlineShop.Application\\OnlineShop.Application.csproj|solutionrelative:onlineshop.application\\formules\\productamountcalculator\\productamountcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE6A0B5C-B059-4460-B0F3-E7650B612A62}|OnlineShop.Application\\OnlineShop.Application.csproj|c:\\m_ghasemi\\others\\onlineshop\\onlineshop.application\\formules\\productamountcalculator\\iproductamountcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE6A0B5C-B059-4460-B0F3-E7650B612A62}|OnlineShop.Application\\OnlineShop.Application.csproj|solutionrelative:onlineshop.application\\formules\\productamountcalculator\\iproductamountcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{760C141E-40DD-4282-97B3-56C78D017F65}|OnlineShop.Domain\\OnlineShop.Domain.csproj|c:\\m_ghasemi\\others\\onlineshop\\onlineshop.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{760C141E-40DD-4282-97B3-56C78D017F65}|OnlineShop.Domain\\OnlineShop.Domain.csproj|solutionrelative:onlineshop.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BE6A0B5C-B059-4460-B0F3-E7650B612A62}|OnlineShop.Application\\OnlineShop.Application.csproj|c:\\m_ghasemi\\others\\onlineshop\\onlineshop.application\\features\\products\\addproduct\\addproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE6A0B5C-B059-4460-B0F3-E7650B612A62}|OnlineShop.Application\\OnlineShop.Application.csproj|solutionrelative:onlineshop.application\\features\\products\\addproduct\\addproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BE6A0B5C-B059-4460-B0F3-E7650B612A62}|OnlineShop.Application\\OnlineShop.Application.csproj|c:\\m_ghasemi\\others\\onlineshop\\onlineshop.application\\features\\products\\getproducts\\getproductsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE6A0B5C-B059-4460-B0F3-E7650B612A62}|OnlineShop.Application\\OnlineShop.Application.csproj|solutionrelative:onlineshop.application\\features\\products\\getproducts\\getproductsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE6A0B5C-B059-4460-B0F3-E7650B612A62}|OnlineShop.Application\\OnlineShop.Application.csproj|c:\\m_ghasemi\\others\\onlineshop\\onlineshop.application\\features\\products\\getproducts\\igetproductsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE6A0B5C-B059-4460-B0F3-E7650B612A62}|OnlineShop.Application\\OnlineShop.Application.csproj|solutionrelative:onlineshop.application\\features\\products\\getproducts\\igetproductsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE6A0B5C-B059-4460-B0F3-E7650B612A62}|OnlineShop.Application\\OnlineShop.Application.csproj|c:\\m_ghasemi\\others\\onlineshop\\onlineshop.application\\features\\products\\getproducts\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE6A0B5C-B059-4460-B0F3-E7650B612A62}|OnlineShop.Application\\OnlineShop.Application.csproj|solutionrelative:onlineshop.application\\features\\products\\getproducts\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE6A0B5C-B059-4460-B0F3-E7650B612A62}|OnlineShop.Application\\OnlineShop.Application.csproj|c:\\m_ghasemi\\others\\onlineshop\\onlineshop.application\\features\\products\\getproducts\\getproductsservicerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE6A0B5C-B059-4460-B0F3-E7650B612A62}|OnlineShop.Application\\OnlineShop.Application.csproj|solutionrelative:onlineshop.application\\features\\products\\getproducts\\getproductsservicerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BE6A0B5C-B059-4460-B0F3-E7650B612A62}|OnlineShop.Application\\OnlineShop.Application.csproj|c:\\m_ghasemi\\others\\onlineshop\\onlineshop.application\\features\\products\\addproduct\\iaddproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -82,89 +94,102 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ProductDto.cs",
-              "DocumentMoniker": "C:\\m_ghasemi\\Others\\OnlineShop\\OnlineShop.Application\\Features\\Products\\GetProducts\\ProductDto.cs",
-              "RelativeDocumentMoniker": "OnlineShop.Application\\Features\\Products\\GetProducts\\ProductDto.cs",
-              "ToolTip": "C:\\m_ghasemi\\Others\\OnlineShop\\OnlineShop.Application\\Features\\Products\\GetProducts\\ProductDto.cs",
-              "RelativeToolTip": "OnlineShop.Application\\Features\\Products\\GetProducts\\ProductDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-23T15:34:59.902Z",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\m_ghasemi\\Others\\OnlineShop\\OnlineShop.WebApi\\appsettings.json",
+              "RelativeDocumentMoniker": "OnlineShop.WebApi\\appsettings.json",
+              "ToolTip": "C:\\m_ghasemi\\Others\\OnlineShop\\OnlineShop.WebApi\\appsettings.json",
+              "RelativeToolTip": "OnlineShop.WebApi\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-24T12:55:45.176Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "GetProductsServiceRequest.cs",
-              "DocumentMoniker": "C:\\m_ghasemi\\Others\\OnlineShop\\OnlineShop.Application\\Features\\Products\\GetProducts\\GetProductsServiceRequest.cs",
-              "RelativeDocumentMoniker": "OnlineShop.Application\\Features\\Products\\GetProducts\\GetProductsServiceRequest.cs",
-              "ToolTip": "C:\\m_ghasemi\\Others\\OnlineShop\\OnlineShop.Application\\Features\\Products\\GetProducts\\GetProductsServiceRequest.cs",
-              "RelativeToolTip": "OnlineShop.Application\\Features\\Products\\GetProducts\\GetProductsServiceRequest.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAAATAAAA",
+              "Title": "IProductAmountCalculator.cs",
+              "DocumentMoniker": "C:\\m_ghasemi\\Others\\OnlineShop\\OnlineShop.Application\\Formules\\ProductAmountCalculator\\IProductAmountCalculator.cs",
+              "RelativeDocumentMoniker": "OnlineShop.Application\\Formules\\ProductAmountCalculator\\IProductAmountCalculator.cs",
+              "ToolTip": "C:\\m_ghasemi\\Others\\OnlineShop\\OnlineShop.Application\\Formules\\ProductAmountCalculator\\IProductAmountCalculator.cs",
+              "RelativeToolTip": "OnlineShop.Application\\Formules\\ProductAmountCalculator\\IProductAmountCalculator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-23T15:32:04.565Z",
+              "WhenOpened": "2024-11-24T12:46:37.933Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "GetProductsService.cs",
-              "DocumentMoniker": "C:\\m_ghasemi\\Others\\OnlineShop\\OnlineShop.Application\\Features\\Products\\GetProducts\\GetProductsService.cs",
-              "RelativeDocumentMoniker": "OnlineShop.Application\\Features\\Products\\GetProducts\\GetProductsService.cs",
-              "ToolTip": "C:\\m_ghasemi\\Others\\OnlineShop\\OnlineShop.Application\\Features\\Products\\GetProducts\\GetProductsService.cs",
-              "RelativeToolTip": "OnlineShop.Application\\Features\\Products\\GetProducts\\GetProductsService.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAQwCAAAAANAAAA",
+              "Title": "ProductAmountCalculator.cs",
+              "DocumentMoniker": "C:\\m_ghasemi\\Others\\OnlineShop\\OnlineShop.Application\\Formules\\ProductAmountCalculator\\ProductAmountCalculator.cs",
+              "RelativeDocumentMoniker": "OnlineShop.Application\\Formules\\ProductAmountCalculator\\ProductAmountCalculator.cs",
+              "ToolTip": "C:\\m_ghasemi\\Others\\OnlineShop\\OnlineShop.Application\\Formules\\ProductAmountCalculator\\ProductAmountCalculator.cs",
+              "RelativeToolTip": "OnlineShop.Application\\Formules\\ProductAmountCalculator\\ProductAmountCalculator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAkAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-23T15:31:56.014Z",
+              "WhenOpened": "2024-11-24T12:45:51.358Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\m_ghasemi\\Others\\OnlineShop\\OnlineShop.WebApi\\Program.cs",
               "RelativeDocumentMoniker": "OnlineShop.WebApi\\Program.cs",
               "ToolTip": "C:\\m_ghasemi\\Others\\OnlineShop\\OnlineShop.WebApi\\Program.cs",
               "RelativeToolTip": "OnlineShop.WebApi\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAuAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-23T15:23:51.128Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "OnlineShop.Application",
-              "DocumentMoniker": "C:\\m_ghasemi\\Others\\OnlineShop\\OnlineShop.Application\\OnlineShop.Application.csproj",
-              "RelativeDocumentMoniker": "OnlineShop.Application\\OnlineShop.Application.csproj",
-              "ToolTip": "C:\\m_ghasemi\\Others\\OnlineShop\\OnlineShop.Application\\OnlineShop.Application.csproj",
-              "RelativeToolTip": "OnlineShop.Application\\OnlineShop.Application.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-11-23T15:11:59Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "ProductsController.cs",
               "DocumentMoniker": "C:\\m_ghasemi\\Others\\OnlineShop\\OnlineShop.WebApi\\Controllers\\ProductsController.cs",
               "RelativeDocumentMoniker": "OnlineShop.WebApi\\Controllers\\ProductsController.cs",
               "ToolTip": "C:\\m_ghasemi\\Others\\OnlineShop\\OnlineShop.WebApi\\Controllers\\ProductsController.cs",
               "RelativeToolTip": "OnlineShop.WebApi\\Controllers\\ProductsController.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAgwBMAAAAAAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA4AAAA0AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-23T15:04:52.471Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
+              "Title": "AddProductService.cs",
+              "DocumentMoniker": "C:\\m_ghasemi\\Others\\OnlineShop\\OnlineShop.Application\\Features\\Products\\AddProduct\\AddProductService.cs",
+              "RelativeDocumentMoniker": "OnlineShop.Application\\Features\\Products\\AddProduct\\AddProductService.cs",
+              "ToolTip": "C:\\m_ghasemi\\Others\\OnlineShop\\OnlineShop.Application\\Features\\Products\\AddProduct\\AddProductService.cs",
+              "RelativeToolTip": "OnlineShop.Application\\Features\\Products\\AddProduct\\AddProductService.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAQwCAAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T15:12:59.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OnlineShop.Application.csproj",
+              "DocumentMoniker": "C:\\m_ghasemi\\Others\\OnlineShop\\OnlineShop.Application\\OnlineShop.Application.csproj",
+              "RelativeDocumentMoniker": "OnlineShop.Application\\OnlineShop.Application.csproj",
+              "ToolTip": "C:\\m_ghasemi\\Others\\OnlineShop\\OnlineShop.Application\\OnlineShop.Application.csproj",
+              "RelativeToolTip": "OnlineShop.Application\\OnlineShop.Application.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-23T15:11:59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "IGetProductsService.cs",
               "DocumentMoniker": "C:\\m_ghasemi\\Others\\OnlineShop\\OnlineShop.Application\\Features\\Products\\GetProducts\\IGetProductsService.cs",
               "RelativeDocumentMoniker": "OnlineShop.Application\\Features\\Products\\GetProducts\\IGetProductsService.cs",
@@ -172,13 +197,12 @@
               "RelativeToolTip": "OnlineShop.Application\\Features\\Products\\GetProducts\\IGetProductsService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-23T15:32:22.149Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-23T15:32:22.149Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "OnlineShop.WebApi",
+              "DocumentIndex": 4,
+              "Title": "OnlineShop.WebApi.csproj",
               "DocumentMoniker": "C:\\m_ghasemi\\Others\\OnlineShop\\OnlineShop.WebApi\\OnlineShop.WebApi.csproj",
               "RelativeDocumentMoniker": "OnlineShop.WebApi\\OnlineShop.WebApi.csproj",
               "ToolTip": "C:\\m_ghasemi\\Others\\OnlineShop\\OnlineShop.WebApi\\OnlineShop.WebApi.csproj",
@@ -189,8 +213,17 @@
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GetProductsService.cs",
+              "DocumentMoniker": "C:\\m_ghasemi\\Others\\OnlineShop\\OnlineShop.Application\\Features\\Products\\GetProducts\\GetProductsService.cs",
+              "RelativeDocumentMoniker": "OnlineShop.Application\\Features\\Products\\GetProducts\\GetProductsService.cs",
+              "ToolTip": "C:\\m_ghasemi\\Others\\OnlineShop\\OnlineShop.Application\\Features\\Products\\GetProducts\\GetProductsService.cs",
+              "RelativeToolTip": "OnlineShop.Application\\Features\\Products\\GetProducts\\GetProductsService.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAlwCAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T15:31:56.014Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -200,27 +233,42 @@
               "RelativeDocumentMoniker": "OnlineShop.Domain\\Entities\\Product.cs",
               "ToolTip": "C:\\m_ghasemi\\Others\\OnlineShop\\OnlineShop.Domain\\Entities\\Product.cs",
               "RelativeToolTip": "OnlineShop.Domain\\Entities\\Product.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAvwAwAAAAAAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABgAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-23T15:07:38.488Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "AddProductService.cs",
-              "DocumentMoniker": "C:\\m_ghasemi\\Others\\OnlineShop\\OnlineShop.Application\\Features\\Products\\AddProduct\\AddProductService.cs",
-              "RelativeDocumentMoniker": "OnlineShop.Application\\Features\\Products\\AddProduct\\AddProductService.cs",
-              "ToolTip": "C:\\m_ghasemi\\Others\\OnlineShop\\OnlineShop.Application\\Features\\Products\\AddProduct\\AddProductService.cs",
-              "RelativeToolTip": "OnlineShop.Application\\Features\\Products\\AddProduct\\AddProductService.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAIwAcAAAA9AAAA",
+              "DocumentIndex": 12,
+              "Title": "GetProductsServiceRequest.cs",
+              "DocumentMoniker": "C:\\m_ghasemi\\Others\\OnlineShop\\OnlineShop.Application\\Features\\Products\\GetProducts\\GetProductsServiceRequest.cs",
+              "RelativeDocumentMoniker": "OnlineShop.Application\\Features\\Products\\GetProducts\\GetProductsServiceRequest.cs",
+              "ToolTip": "C:\\m_ghasemi\\Others\\OnlineShop\\OnlineShop.Application\\Features\\Products\\GetProducts\\GetProductsServiceRequest.cs",
+              "RelativeToolTip": "OnlineShop.Application\\Features\\Products\\GetProducts\\GetProductsServiceRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-23T15:12:59.383Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-23T15:32:04.565Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
+              "Title": "ProductDto.cs",
+              "DocumentMoniker": "C:\\m_ghasemi\\Others\\OnlineShop\\OnlineShop.Application\\Features\\Products\\GetProducts\\ProductDto.cs",
+              "RelativeDocumentMoniker": "OnlineShop.Application\\Features\\Products\\GetProducts\\ProductDto.cs",
+              "ToolTip": "C:\\m_ghasemi\\Others\\OnlineShop\\OnlineShop.Application\\Features\\Products\\GetProducts\\ProductDto.cs",
+              "RelativeToolTip": "OnlineShop.Application\\Features\\Products\\GetProducts\\ProductDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T15:34:59.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "IAddProductService.cs",
               "DocumentMoniker": "C:\\m_ghasemi\\Others\\OnlineShop\\OnlineShop.Application\\Features\\Products\\AddProduct\\IAddProductService.cs",
               "RelativeDocumentMoniker": "OnlineShop.Application\\Features\\Products\\AddProduct\\IAddProductService.cs",
@@ -228,13 +276,12 @@
               "RelativeToolTip": "OnlineShop.Application\\Features\\Products\\AddProduct\\IAddProductService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA9AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-23T15:13:23.194Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-23T15:13:23.194Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "OnlineShop.Domain",
+              "DocumentIndex": 14,
+              "Title": "OnlineShop.Domain.csproj",
               "DocumentMoniker": "C:\\m_ghasemi\\Others\\OnlineShop\\OnlineShop.Domain\\OnlineShop.Domain.csproj",
               "RelativeDocumentMoniker": "OnlineShop.Domain\\OnlineShop.Domain.csproj",
               "ToolTip": "C:\\m_ghasemi\\Others\\OnlineShop\\OnlineShop.Domain\\OnlineShop.Domain.csproj",
@@ -246,7 +293,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 15,
               "Title": "ProductCategory.cs",
               "DocumentMoniker": "C:\\m_ghasemi\\Others\\OnlineShop\\OnlineShop.Domain\\Enums\\ProductCategory.cs",
               "RelativeDocumentMoniker": "OnlineShop.Domain\\Enums\\ProductCategory.cs",
@@ -254,12 +301,11 @@
               "RelativeToolTip": "OnlineShop.Domain\\Enums\\ProductCategory.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-23T15:08:39.242Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-23T15:08:39.242Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 16,
               "Title": "AddProductServiceRequest.cs",
               "DocumentMoniker": "C:\\m_ghasemi\\Others\\OnlineShop\\OnlineShop.Application\\Features\\Products\\AddProduct\\AddProductServiceRequest.cs",
               "RelativeDocumentMoniker": "OnlineShop.Application\\Features\\Products\\AddProduct\\AddProductServiceRequest.cs",
@@ -267,12 +313,11 @@
               "RelativeToolTip": "OnlineShop.Application\\Features\\Products\\AddProduct\\AddProductServiceRequest.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-23T15:13:52.521Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-23T15:13:52.521Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 17,
               "Title": "AddProductServiceResponse.cs",
               "DocumentMoniker": "C:\\m_ghasemi\\Others\\OnlineShop\\OnlineShop.Application\\Features\\Products\\AddProduct\\AddProductServiceResponse.cs",
               "RelativeDocumentMoniker": "OnlineShop.Application\\Features\\Products\\AddProduct\\AddProductServiceResponse.cs",
@@ -280,12 +325,11 @@
               "RelativeToolTip": "OnlineShop.Application\\Features\\Products\\AddProduct\\AddProductServiceResponse.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-23T15:14:10.833Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-23T15:14:10.833Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 20,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\m_ghasemi\\Others\\OnlineShop\\OnlineShop.Infrastructure\\Class1.cs",
               "RelativeDocumentMoniker": "OnlineShop.Infrastructure\\Class1.cs",
@@ -293,12 +337,11 @@
               "RelativeToolTip": "OnlineShop.Infrastructure\\Class1.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-23T15:01:45.834Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-23T15:01:45.834Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 19,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\m_ghasemi\\Others\\OnlineShop\\OnlineShop.Domain\\Class1.cs",
               "RelativeDocumentMoniker": "OnlineShop.Domain\\Class1.cs",
@@ -306,12 +349,11 @@
               "RelativeToolTip": "OnlineShop.Domain\\Class1.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-23T15:01:23.356Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-23T15:01:23.356Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 18,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\m_ghasemi\\Others\\OnlineShop\\OnlineShop.Application\\Class1.cs",
               "RelativeDocumentMoniker": "OnlineShop.Application\\Class1.cs",
@@ -319,8 +361,7 @@
               "RelativeToolTip": "OnlineShop.Application\\Class1.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-23T14:56:46.748Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-23T14:56:46.748Z"
             }
           ]
         }

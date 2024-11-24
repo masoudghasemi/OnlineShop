@@ -1,4 +1,5 @@
-﻿using OnlineShop.Domain.Entities;
+﻿using OnlineShop.Application.Formules.ProductAmountCalculator;
+using OnlineShop.Domain.Entities;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -10,15 +11,26 @@ namespace OnlineShop.Application.Features.Products.AddProduct
    
     public class AddProductService : IAddProductService
     {
+        private readonly IProductAmountCalculator _productAmountCalculator;
+
+        public AddProductService(IProductAmountCalculator productAmountCalculator) {
+
+            _productAmountCalculator = productAmountCalculator;
+        }
+
+
         public AddProductServiceResponse Handle(AddProductServiceRequest request)
         {
             
+
+
 
             var product=new Product()
             {
                 Name= request.Name,
                 Description= request.Description,
                 Category= request.Category,
+                Amount= _productAmountCalculator.Calculate(request.Category)
             };
 
 
