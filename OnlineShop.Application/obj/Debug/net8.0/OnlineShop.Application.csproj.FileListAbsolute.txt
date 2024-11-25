@@ -13,3 +13,4 @@ C:\m_ghasemi\Others\OnlineShop\OnlineShop.Application\obj\Debug\net8.0\OnlineSho
 C:\m_ghasemi\Others\OnlineShop\OnlineShop.Application\obj\Debug\net8.0\refint\OnlineShop.Application.dll
 C:\m_ghasemi\Others\OnlineShop\OnlineShop.Application\obj\Debug\net8.0\OnlineShop.Application.pdb
 C:\m_ghasemi\Others\OnlineShop\OnlineShop.Application\obj\Debug\net8.0\ref\OnlineShop.Application.dll
+C:\m_ghasemi\Others\OnlineShop\OnlineShop.Application\obj\Debug\net8.0\OnlineShop.Application.sourcelink.json

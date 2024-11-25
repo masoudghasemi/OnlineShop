@@ -1,6 +1,8 @@
 using OnlineShop.Application.Features.Products.AddProduct;
 using OnlineShop.Application.Features.Products.GetProducts;
 using OnlineShop.Application.Formules.ProductAmountCalculator;
+using OnlineShop.WebApi.Middlewares;
+using System.Globalization;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -18,6 +20,8 @@ builder.Services.AddSingleton<IProductAmountCalculator, ProductAmountCalculator>
 
 var app = builder.Build();
 
+app.UseMiddleware<LogMiddleware>();
+
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
 {
@@ -25,10 +29,16 @@ if (app.Environment.IsDevelopment())
     app.UseSwaggerUI();
 }
 
-app.UseHttpsRedirection();
+app.UseHttpsRedirection(); 
 
 app.UseAuthorization();
 
+
+
 app.MapControllers();
+
+
+
+
 
 app.Run();

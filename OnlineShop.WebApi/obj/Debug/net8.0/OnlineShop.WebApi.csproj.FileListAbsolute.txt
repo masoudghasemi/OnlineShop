@@ -34,3 +34,4 @@ C:\m_ghasemi\Others\OnlineShop\OnlineShop.WebApi\obj\Debug\net8.0\refint\OnlineS
 C:\m_ghasemi\Others\OnlineShop\OnlineShop.WebApi\obj\Debug\net8.0\OnlineShop.WebApi.pdb
 C:\m_ghasemi\Others\OnlineShop\OnlineShop.WebApi\obj\Debug\net8.0\OnlineShop.WebApi.genruntimeconfig.cache
 C:\m_ghasemi\Others\OnlineShop\OnlineShop.WebApi\obj\Debug\net8.0\ref\OnlineShop.WebApi.dll
+C:\m_ghasemi\Others\OnlineShop\OnlineShop.WebApi\obj\Debug\net8.0\OnlineShop.WebApi.sourcelink.json
