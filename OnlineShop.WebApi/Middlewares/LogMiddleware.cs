@@ -27,5 +27,21 @@ namespace OnlineShop.WebApi.Middlewares
     }
 
 
+    
+    // ///////////////////////////////////////////////////////////////////////////////////////
+    public static class EX
+    {
+
+        public static IApplicationBuilder UseLogMiddleware(this IApplicationBuilder applicationBuilder)
+        {
+
+           var app=  applicationBuilder.UseMiddleware<LogMiddleware>();
+
+           return app;
+        }
+        
+    }
+
+
 
 }

@@ -20,7 +20,9 @@ builder.Services.AddSingleton<IProductAmountCalculator, ProductAmountCalculator>
 
 var app = builder.Build();
 
-app.UseMiddleware<LogMiddleware>();
+//app.UseMiddleware<LogMiddleware>();
+ app.UseLogMiddleware();
+
 
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
