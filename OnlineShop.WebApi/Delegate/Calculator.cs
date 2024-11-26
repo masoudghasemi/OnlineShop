@@ -1,7 +1,0 @@
-namespace OnlineShop.WebApi.Delegate;
-
-
-
-
-
-
