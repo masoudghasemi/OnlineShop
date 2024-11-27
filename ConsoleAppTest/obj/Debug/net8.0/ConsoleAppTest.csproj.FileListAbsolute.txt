@@ -1,0 +1,15 @@
+C:\m_ghasemi\Others\OnlineShop\ConsoleAppTest\bin\Debug\net8.0\ConsoleAppTest.exe
+C:\m_ghasemi\Others\OnlineShop\ConsoleAppTest\bin\Debug\net8.0\ConsoleAppTest.deps.json
+C:\m_ghasemi\Others\OnlineShop\ConsoleAppTest\bin\Debug\net8.0\ConsoleAppTest.runtimeconfig.json
+C:\m_ghasemi\Others\OnlineShop\ConsoleAppTest\bin\Debug\net8.0\ConsoleAppTest.dll
+C:\m_ghasemi\Others\OnlineShop\ConsoleAppTest\bin\Debug\net8.0\ConsoleAppTest.pdb
+C:\m_ghasemi\Others\OnlineShop\ConsoleAppTest\obj\Debug\net8.0\ConsoleAppTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\m_ghasemi\Others\OnlineShop\ConsoleAppTest\obj\Debug\net8.0\ConsoleAppTest.AssemblyInfoInputs.cache
+C:\m_ghasemi\Others\OnlineShop\ConsoleAppTest\obj\Debug\net8.0\ConsoleAppTest.AssemblyInfo.cs
+C:\m_ghasemi\Others\OnlineShop\ConsoleAppTest\obj\Debug\net8.0\ConsoleAppTest.csproj.CoreCompileInputs.cache
+C:\m_ghasemi\Others\OnlineShop\ConsoleAppTest\obj\Debug\net8.0\ConsoleAppTest.sourcelink.json
+C:\m_ghasemi\Others\OnlineShop\ConsoleAppTest\obj\Debug\net8.0\ConsoleAppTest.dll
+C:\m_ghasemi\Others\OnlineShop\ConsoleAppTest\obj\Debug\net8.0\refint\ConsoleAppTest.dll
+C:\m_ghasemi\Others\OnlineShop\ConsoleAppTest\obj\Debug\net8.0\ConsoleAppTest.pdb
+C:\m_ghasemi\Others\OnlineShop\ConsoleAppTest\obj\Debug\net8.0\ConsoleAppTest.genruntimeconfig.cache
+C:\m_ghasemi\Others\OnlineShop\ConsoleAppTest\obj\Debug\net8.0\ref\ConsoleAppTest.dll

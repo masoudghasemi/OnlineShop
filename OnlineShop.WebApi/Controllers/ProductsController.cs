@@ -2,11 +2,12 @@
 using OnlineShop.Application.Features.Products.AddProduct;
 using OnlineShop.Application.Features.Products.GetProducts;
 using OnlineShop.WebApi.ExtentionMethods;
+using OnlineShop.WebApi.Models;
 
 namespace OnlineShop.WebApi.Controllers
 {
     
-    public delegate int Calculator(int a, int b);
+   // public delegate int Calculator(int a, int b);
 
     
     
@@ -16,31 +17,31 @@ namespace OnlineShop.WebApi.Controllers
     public class ProductsController : ControllerBase
     {
 
-        public int SumCalculator(int a, int b)
-        {
-
-            return a + b;
-        }
-        
-        
-        public int MinusCalculator(int a, int b)
-        {
-
-            return a - b;
-        }
-
-        public int CrossCalculator(int f, int g)
-        {
-            return f * g;
-        }
-
-
-
-        public int Calculate(int a, int b, Calculator calculator)
-        {
-             return calculator(a, b);
-        }
-        
+        // public int SumCalculator(int a, int b)
+        // {
+        //
+        //     return a + b;
+        // }
+        //
+        //
+        // public int MinusCalculator(int a, int b)
+        // {
+        //
+        //     return a - b;
+        // }
+        //
+        // public int CrossCalculator(int f, int g)
+        // {
+        //     return f * g;
+        // }
+        //
+        //
+        //
+        // public int Calculate(int a, int b, Calculator calculator)
+        // {
+        //      return calculator(a, b);
+        // }
+        //
         
         
         // /////////////////////////////////////////////////////////////////
@@ -60,32 +61,45 @@ namespace OnlineShop.WebApi.Controllers
         // سرویس افزودن محصول
 
         [HttpPost]
-        public AddProductServiceResponse AddProduct(AddProductServiceRequest request)
+        public Response<AddProductServiceResponse> AddProduct(AddProductServiceRequest request)
         {
 
 
-            var result = Calculate(200, 100, SumCalculator);
-
-            var resultOfMinus = Calculate(200, 100, MinusCalculator);
-
-            var resultOfCross = Calculate(100, 200, CrossCalculator);
-            
-            var welcomeMessage = _configuration["wellcomeMessage"];
+            // var result = Calculate(200, 100, SumCalculator);
+            //
+            // var resultOfMinus = Calculate(200, 100, MinusCalculator);
+            //
+            // var resultOfCross = Calculate(100, 200, CrossCalculator);
+            //
+            // var welcomeMessage = _configuration["wellcomeMessage"];
             
             //var stringNumber = "132546";
             //var intNumber = stringNumber.ConvertToInt();
 
             var response = _addProductService.Handle(request);
-            return response;
+            
+            return new Response<AddProductServiceResponse>()
+            {
+                Data = response,
+                IsSuccess = true,
+                Message = "عملیات با موفقیت انجام شد",
+                Code = 200
+            };
 
         }
 
         [HttpPost]
-        public List<ProductDto> GetProducts(GetProductsServiceRequest request)
+        public Response< List<ProductDto>> GetProducts(GetProductsServiceRequest request)
         {
 
             var response = _getProductsService.Handle(request);
-            return response;
+            return new Response<List<ProductDto>>()
+            {
+                Data = response,
+                IsSuccess = true,
+                Message = "عملیات موفق",
+                Code = 201
+            };
 
         }
 
