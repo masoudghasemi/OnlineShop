@@ -4,6 +4,31 @@ using ConsoleAppTest;
 
 Console.WriteLine("Hello, World!");
 
+
+var salary = Salary.GetInstance();
+salary.Amount=100;
+
+
+string myNumber2;
+string myNumber1= salary.GetMyNumbers(out myNumber2);
+
+
+
+
+int myX;
+salary.DoSomthing2(out myX);
+
+
+
+var  a = 100;
+salary.DoSomthing(ref a);
+
+var salary2 = Salary.GetInstance();
+salary2.Amount = 200;
+
+var salary3 = Salary.GetInstance();
+
+
 //
 // var name = "masoud";
 //

@@ -7,6 +7,7 @@ using System.Threading.Tasks;
 
 namespace OnlineShop.Domain.Entities
 {
+
     public class Product
     {
         private static List<Product> Products = new List<Product>();
