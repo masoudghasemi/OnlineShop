@@ -1,6 +1,7 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
 using ConsoleAppTest;
+using ConsoleAppTest.Animals;
 
 Console.WriteLine("Hello, World!");
 
@@ -13,6 +14,35 @@ string myNumber2;
 string myNumber1= salary.GetMyNumbers(out myNumber2);
 
 
+
+var result = Convertor.ToString(100);
+
+
+
+
+// var cat = new Cat();
+// var ss= cat.GetNumber();
+// cat.Eat();
+
+
+var cat1 = new Cat();
+var cat2 = new Cat();
+var cat3 = cat1 + cat2;
+
+var cat4 = cat1 - cat2;
+
+var cat5 = cat1 * cat2;
+
+var cat6 = cat1 / cat2;
+
+var cat7 = (cat1 * cat2) / (cat3 - cat4) * (cat3 + cat1);
+
+
+
+var str = "adb" + "cdf";
+
+var tiger = new Tiger();
+ tiger.Eat();
 
 
 int myX;
