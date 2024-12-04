@@ -14,6 +14,7 @@ namespace OnlineShop.WebApi.Middlewares
         public async Task Invoke(HttpContext context) {
 
 
+            
             var request = context.Request;
 
             await _next(context);

@@ -21,7 +21,13 @@ namespace OnlineShop.Application.Features.Products.AddProduct
 
         public AddProductServiceResponse Handle(AddProductServiceRequest request)
         {
-            
+
+            if (request.Name.Length > 20 )
+            {
+               // return null;
+
+               throw new ProductNameInvalidException("طول نام وارد شده معتبر نیست");
+            }
 
 
 

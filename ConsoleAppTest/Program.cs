@@ -2,9 +2,46 @@
 
 using ConsoleAppTest;
 using ConsoleAppTest.Animals;
+using ConsoleAppTest.Animals.BigAnimals;
+using ConsoleAppTest.CustomExceptions;
+using MyNameSpace;
+using Tiger = ConsoleAppTest.Animals.Tiger;
 
 Console.WriteLine("Hello, World!");
 
+var list = new List<string>();
+
+
+try
+{
+ 
+ 
+ // next(httpcontext);
+
+}
+catch (NullReferenceException ex)
+{
+ 
+ Console.WriteLine(ex);
+
+}
+catch (IOException ex)
+{
+
+}
+catch (AppException ex)
+{
+
+}
+finally
+{
+ 
+}
+
+
+
+var el = new Elephent();
+var convertor=new Convertor();
 
 var salary = Salary.GetInstance();
 salary.Amount=100;
@@ -25,6 +62,8 @@ var result = Convertor.ToString(100);
 // cat.Eat();
 
 
+#region catArea
+
 var cat1 = new Cat();
 var cat2 = new Cat();
 var cat3 = cat1 + cat2;
@@ -37,7 +76,7 @@ var cat6 = cat1 / cat2;
 
 var cat7 = (cat1 * cat2) / (cat3 - cat4) * (cat3 + cat1);
 
-
+#endregion
 
 var str = "adb" + "cdf";
 

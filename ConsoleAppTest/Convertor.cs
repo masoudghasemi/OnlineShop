@@ -1,4 +1,4 @@
-namespace ConsoleAppTest;
+namespace MyNameSpace;
 
 public class Convertor
 {

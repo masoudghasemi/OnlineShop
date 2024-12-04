@@ -20,6 +20,8 @@ builder.Services.AddSingleton<IProductAmountCalculator, ProductAmountCalculator>
 
 var app = builder.Build();
 
+app.UseExceptionHandler();
+
 //app.UseMiddleware<LogMiddleware>();
  app.UseLogMiddleware();
 

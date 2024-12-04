@@ -76,15 +76,30 @@ namespace OnlineShop.WebApi.Controllers
             //var stringNumber = "132546";
             //var intNumber = stringNumber.ConvertToInt();
 
-            var response = _addProductService.Handle(request);
-            
-            return new Response<AddProductServiceResponse>()
+            try
             {
-                Data = response,
-                IsSuccess = true,
-                Message = "عملیات با موفقیت انجام شد",
-                Code = 200
-            };
+                var response = _addProductService.Handle(request);
+                return new Response<AddProductServiceResponse>()
+                {
+                    Data = response,
+                    IsSuccess = true,
+                    Message = "عملیات با موفقیت انجام شد",
+                    Code = 200
+                };
+            }
+            catch (ProductNameInvalidException ex)
+            {
+                return new Response<AddProductServiceResponse>()
+                {
+                    Data = null,
+                    IsSuccess = false,
+                    Message = ex.Message,
+                    Code = 400
+                };
+            }
+            
+            
+           
 
         }
 
